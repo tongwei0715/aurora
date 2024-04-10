@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/tongwei0715/chatapi
+  GHCR_REPO: ghcr.io/tongwei0715/hw0715
 
 jobs:
   main:
